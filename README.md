@@ -6,3 +6,6 @@ hello
 adsadasdeasdas
 
 this.new
+
+how to merging
+
